@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>I_love_you.95bbab29-88c5-11ed-b825-40e230b71d70.jpg</filename>
+	<path>G:\Study 4-1\Ongoing Projects\Millionaire Project\AI\Python Crash Course\RealTimeSignLanguageDetection\Tensorflow\workspace\images\collectedimages\I_love_you.95bbab29-88c5-11ed-b825-40e230b71d70.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I love you</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>162</ymin>
+			<xmax>582</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

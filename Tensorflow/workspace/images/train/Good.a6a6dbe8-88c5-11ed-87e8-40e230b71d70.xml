@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Good.a6a6dbe8-88c5-11ed-87e8-40e230b71d70.jpg</filename>
+	<path>G:\Study 4-1\Ongoing Projects\Millionaire Project\AI\Python Crash Course\RealTimeSignLanguageDetection\Tensorflow\workspace\images\collectedimages\Good.a6a6dbe8-88c5-11ed-87e8-40e230b71d70.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>258</ymin>
+			<xmax>588</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

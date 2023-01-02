@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Yes.6b36896c-88c5-11ed-954a-40e230b71d70.jpg</filename>
+	<path>G:\Study 4-1\Ongoing Projects\Millionaire Project\AI\Python Crash Course\RealTimeSignLanguageDetection\Tensorflow\workspace\images\collectedimages\Yes.6b36896c-88c5-11ed-954a-40e230b71d70.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>434</xmin>
+			<ymin>226</ymin>
+			<xmax>638</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

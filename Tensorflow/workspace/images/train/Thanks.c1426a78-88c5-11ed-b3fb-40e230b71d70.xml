@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Thanks.c1426a78-88c5-11ed-b3fb-40e230b71d70.jpg</filename>
+	<path>G:\Study 4-1\Ongoing Projects\Millionaire Project\AI\Python Crash Course\RealTimeSignLanguageDetection\Tensorflow\workspace\images\collectedimages\Thanks.c1426a78-88c5-11ed-b3fb-40e230b71d70.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thank You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>404</xmin>
+			<ymin>183</ymin>
+			<xmax>596</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>
